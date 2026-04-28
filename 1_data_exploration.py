@@ -1,5 +1,5 @@
 """
-pages/1_data_exploration.py
+page/1_data_exploration.py
 ============================
 Interactive EDA page:
   - Dataset overview & statistics
